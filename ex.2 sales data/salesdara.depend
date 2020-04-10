@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1544737867 source:c:\users\ola\desktop\exercises\salesdara\main.cpp
+	<iostream>
+	<cstdlib>
+

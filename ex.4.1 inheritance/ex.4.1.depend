@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1543791343 source:c:\users\ola\desktop\oop\ex4.1\bus.cpp
+	"bus.h"
+	"vehice.h"
+
+1544887840 c:\users\ola\desktop\oop\ex4.1\bus.h
+	"vehice.h"
+	<iostream>
+
+1544887713 c:\users\ola\desktop\oop\ex4.1\vehice.h
+
+1544886765 source:c:\users\ola\desktop\oop\ex4.1\car.cpp
+	"car.h"
+	"vehice.h"
+	<iostream>
+
+1544887896 c:\users\ola\desktop\oop\ex4.1\car.h
+	<iostream>
+	"vehice.h"
+
+1542377128 source:c:\users\ola\desktop\oop\ex4.1\vehicle.cpp
+	"vehice.h"
+	<ctime>
+	<iostream>
+
+1544886727 source:c:\users\ola\desktop\oop\ex4.1\main.cpp
+	<iostream>
+	"vehice.h"
+	"car.h"
+	"bus.h"
+	<cstdlib>
+

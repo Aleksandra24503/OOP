@@ -1,0 +1,118 @@
+# depslib dependency file v1.0
+1542130846 source:c:\users\ola\desktop\oop\ex4.1\bus.cpp
+	"bus.h"
+	"vehice.h"
+
+1542376491 c:\users\ola\desktop\oop\ex4.1\bus.h
+	"vehice.h"
+	<iostream>
+
+1542377128 c:\users\ola\desktop\oop\ex4.1\vehice.h
+
+1542377202 source:c:\users\ola\desktop\oop\ex4.1\car.cpp
+	"car.h"
+	"vehice.h"
+	<iostream>
+
+1542377128 c:\users\ola\desktop\oop\ex4.1\car.h
+	<iostream>
+	"vehice.h"
+
+1542377128 source:c:\users\ola\desktop\oop\ex4.1\vehicle.cpp
+	"vehice.h"
+	<ctime>
+	<iostream>
+
+1542378997 source:c:\users\ola\desktop\oop\ex4.2\car.cpp
+	"car.h"
+	"vehice.h"
+	<iostream>
+
+1544891173 c:\users\ola\desktop\oop\ex4.2\car.h
+	<iostream>
+	"vehice.h"
+
+1542378971 c:\users\ola\desktop\oop\ex4.2\vehice.h
+
+1542379150 source:c:\users\ola\desktop\oop\ex4.2\vehicle.cpp
+	"vehice.h"
+	<ctime>
+	<iostream>
+
+1542379467 source:c:\users\ola\desktop\oop\ex4.2\bus.cpp
+	"bus.h"
+	"vehice.h"
+
+1544891018 c:\users\ola\desktop\oop\ex4.2\bus.h
+	"vehice.h"
+	<iostream>
+
+1544890980 source:c:\users\ola\desktop\oop\ex4.2\main.cpp
+	<iostream>
+	"vehice.h"
+	"car.h"
+	"bus.h"
+	<cstdlib>
+
+1542379467 source:c:\users\ola\desktop\exercises\my oop\ex.4.2 aggregation\bus.cpp
+	"bus.h"
+	"vehice.h"
+
+1544891018 c:\users\ola\desktop\exercises\my oop\ex.4.2 aggregation\bus.h
+	"vehice.h"
+	<iostream>
+
+1542378971 c:\users\ola\desktop\exercises\my oop\ex.4.2 aggregation\vehice.h
+
+1542378997 source:c:\users\ola\desktop\exercises\my oop\ex.4.2 aggregation\car.cpp
+	"car.h"
+	"vehice.h"
+	<iostream>
+
+1544891173 c:\users\ola\desktop\exercises\my oop\ex.4.2 aggregation\car.h
+	<iostream>
+	"vehice.h"
+
+1544891192 source:c:\users\ola\desktop\exercises\my oop\ex.4.2 aggregation\main.cpp
+	<iostream>
+	"vehice.h"
+	"car.h"
+	"bus.h"
+	<cstdlib>
+
+1542379150 source:c:\users\ola\desktop\exercises\my oop\ex.4.2 aggregation\vehicle.cpp
+	"vehice.h"
+	<ctime>
+	<iostream>
+
+1542379467 source:c:\users\ola\desktop\exercises\obj\ex.4.2 aggregation\bus.cpp
+	"bus.h"
+	"vehice.h"
+
+1544891018 c:\users\ola\desktop\exercises\obj\ex.4.2 aggregation\bus.h
+	"vehice.h"
+	<iostream>
+
+1548026706 c:\users\ola\desktop\exercises\obj\ex.4.2 aggregation\vehice.h
+
+1542378997 source:c:\users\ola\desktop\exercises\obj\ex.4.2 aggregation\car.cpp
+	"car.h"
+	"vehice.h"
+	<iostream>
+
+1548026629 c:\users\ola\desktop\exercises\obj\ex.4.2 aggregation\car.h
+	<iostream>
+	"vehice.h"
+
+1548026688 source:c:\users\ola\desktop\exercises\obj\ex.4.2 aggregation\main.cpp
+	<iostream>
+	"vehice.h"
+	"car.h"
+	"bus.h"
+	<cstdlib>
+
+1542379150 source:c:\users\ola\desktop\exercises\obj\ex.4.2 aggregation\vehicle.cpp
+	"vehice.h"
+	<ctime>
+	<iostream>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1544872126 source:c:\users\ola\desktop\exercises\date\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<limits>
+
+1545035939 source:c:\users\ola\desktop\exercises\my oop\ex.3 data over\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<limits>
+

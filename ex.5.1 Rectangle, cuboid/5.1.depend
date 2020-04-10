@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1544895794 source:c:\users\ola\desktop\exercises\5.1\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+
