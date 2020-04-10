@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1548069040 source:c:\users\ola\desktop\exercises\obj\ex.10.1\main.cpp
+	<iostream>
+	<exception>
+	<string>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1546865456 source:c:\users\ola\desktop\exercises\ex.8.2sort\main.cpp
+	<iostream>
+	<ostream>
+	<cstdlib>
+	<ctime>
+
+1546865456 source:c:\users\ola\desktop\exercises\obj\ex.8.2sort\main.cpp
+	<iostream>
+	<ostream>
+	<cstdlib>
+	<ctime>
+
