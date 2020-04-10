@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1546865121 source:c:\users\ola\desktop\exercises\ex.8 tempelate\main.cpp
+	<string>
+	<iostream>
+
+1546865121 source:c:\users\ola\desktop\exercises\obj\ex.8 tempelate\main.cpp
+	<string>
+	<iostream>
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1544454629 source:c:\users\ola\desktop\oop\ex6\6.1.a\6a\main.cpp
+	<iostream>
+	<ctime>
+	<string>
+	<cstdlib>
+
+1544996082 source:c:\users\ola\desktop\exercises\my oop\ex.6.1. no virtual\6a\main.cpp
+	<iostream>
+	<ctime>
+	<string>
+	<cstdlib>
+	<limits>
+

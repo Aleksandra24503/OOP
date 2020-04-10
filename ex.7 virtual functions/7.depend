@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1544988305 source:c:\users\ola\desktop\exercises\7\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+
+1546776697 source:c:\users\ola\desktop\exercises\my oop\ex.7 virtual functions\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<limits>
+
+1546776697 source:c:\users\ola\desktop\exercises\obj\ex.7 virtual functions\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<limits>
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1544908432 source:c:\users\ola\desktop\exercises\6.1\main.cpp
+	<iostream>
+	<ctime>
+	<string>
+	<cstdlib>
+	<limits>
+
+1544995934 source:c:\users\ola\desktop\exercises\my oop\ex.6.1 bicycle hierarchy\main.cpp
+	<iostream>
+	<ctime>
+	<string>
+	<cstdlib>
+	<limits>
+

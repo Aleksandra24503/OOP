@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1544970262 source:c:\users\ola\desktop\exercises\6.3\main.cpp
+	<iostream>
+	<vector>
+
+1544995353 source:c:\users\ola\desktop\exercises\my oop\ex.6.3 sparse vectors\main.cpp
+	<iostream>
+	<vector>
+	<limits>
+	<cstdlib>
+
